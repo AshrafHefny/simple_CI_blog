@@ -1,5 +1,6 @@
 # simple_CI_blog
-This is a simple blog with codeigniter 
+<br />
+Simple blog with codeigniter 
 
 I have developed this blog based on Codeigniter under LAMP environment [linux , PHP 5.5 , Apache 2.4, mysql 5.6  ] .
 
