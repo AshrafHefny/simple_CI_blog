@@ -22,7 +22,6 @@ class premission extends CI_Model {
             $user = $this->db->get()->result_array();
             if (count($user) > 0) {
                 $this->userdata = $user[0];
-                $this->lang->load('menu');
             }
         }
     }
